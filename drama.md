@@ -1,3 +1,10 @@
+---
+title: 路桥第一马戏团出道寄
+time: 2023-12-23 16:00
+description: | 
+  路桥第一马戏团出道寄
+---
+
 # 路桥第一马戏团出道寄
 
 ### 请选择你的英雄
@@ -7,7 +14,8 @@
     - Chose_B : 成功的从台下看客变成台上一员力
     - Len_zh : %%%%%%%%%%%%%%%
     - codeboy : （强者的沉默）
-    - ERA_yes : 一般路过，...，~~然后顺便修好了电脑~~
+    - Florance: 向 Chose_B 举荐 EraYes
+    - EraYes : 路过，...，~~然后顺便修好了电脑~~
     - 梅林 : 最强火力
     - 田所先生 : 痛失转接头
     - zc : （喝茶）
@@ -128,13 +136,14 @@ codeboy 于是又开始尝试使用cmd
 ### Scene 4
 
 ###### Day 4 下午
-Chose_B在寻找ERA_yes的路上碰到了ERA_yes,于是拉着ERA_yes来到了教室  
-ERA_yes插上了他的硬盘，尝试着进入`bios`  
+由于Florance的举荐，Chose_B出发寻找EraYes
+Chose_B在寻找EraYes的路上碰到了EraYes,于是拉着EraYes来到了教室  
+EraYes插上了他的硬盘，尝试着进入`bios`  
 快速的点击`F7`,`bios`界面成功出现，而这也宣告了STIer们的成功  
 > 现在原神哥真正的成为了一个Joker
 
 -----17:40-----
-ERA_yes安装了`windows 10`之后，赶回了教室
+EraYes安装了`windows 10`之后，赶回了教室
 留下来的STIer继续着修复一体机的伟业
 * (梅林 or Len_zh) 设置了系统用户`Joker_Master_Wu`  
 * 梅林 安装了 核显驱动。 现在新系统的界面布局变得合理了
@@ -220,29 +229,29 @@ ERA_yes安装了`windows 10`之后，赶回了教室
 ###### Day 8 中午
 
 ----------Chose_B-----Dragon----------  
-Dragon _使用了_ __调查__ , 要求Chose_B寻找ERA_yes  
-Chose_B _使用了_ __辩护__ , 解释ERA_yes无罪,效果甚微  
+Dragon _使用了_ __调查__ , 要求Chose_B寻找EraYes  
+Chose_B _使用了_ __辩护__ , 解释EraYes无罪,效果甚微  
 Dragon 拿出 _图片:嘲讽txt_ , 质询Chose_B何人所为  
 Chose_B _使用了_ __装傻__ , 暂时有效  
-Dragon _使用了_ __索敌__ , Chose_B只有找到ERA_yes才可继续对话  
-Chose_B 无法回避 , 前往寻找ERA_yes  
+Dragon _使用了_ __索敌__ , Chose_B只有找到EraYes才可继续对话  
+Chose_B 无法回避 , 前往寻找EraYes  
 
 (15 minutes later)  
--------Chose_B & ERA_yes ----- Dragon -------  
-Dragon 对 ERA_yes _使用了_ __询问__ , 要求ERA_yes解释周四下午之事  
-ERA_yes _使用了_ __问心无愧__  
-Dragon 拿出 _图片:嘲讽txt_ , 质询ERA_yes何人所为  
-ERA_yes _使用了_ __无懈可击__ , 否认了为自己所为  
+-------Chose_B & EraYes ----- Dragon -------  
+Dragon 对 EraYes _使用了_ __询问__ , 要求EraYes解释周四下午之事  
+EraYes _使用了_ __问心无愧__  
+Dragon 拿出 _图片:嘲讽txt_ , 质询EraYes何人所为  
+EraYes _使用了_ __无懈可击__ , 否认了为自己所为  
 Dragon 拿出 _图片:嘲讽txt_ , 质询Chose_B何人所为  
 Chose_B _获得效果_ __汗流浃背__  
 Dragon _获得效果_ __我猜对了__ , 造成$25$点精神伤害  
 Chose_B 对自己 _使用了_ __这不该骂？__ , 受到伤害减少$\dfrac{1}{3}$  
 
-连一刻也没有为ERA_yes即将离开而感到~~悲伤~~,立刻抵达战场的是**原神哥**!!!  
+连一刻也没有为EraYes即将离开而感到~~悲伤~~,立刻抵达战场的是**原神哥**!!!  
 
--------------Chose_B & ERA_yes ----- Dragon & 原神哥 -------------  
-原神哥 对 ERA_yes _使用了_ __质询__ , 要求ERA_yes回答是如何重新安装系统的  
-ERA_yes _使用了_ __无懈可击__ , `F7就可以进入bios界面`  
+-------------Chose_B & EraYes ----- Dragon & 原神哥 -------------  
+原神哥 对 EraYes _使用了_ __质询__ , 要求EraYes回答是如何重新安装系统的  
+EraYes _使用了_ __无懈可击__ , `F7就可以进入bios界面`  
 原神哥 _获得状态_ __迷惑__ , 受到来自自己的精神伤害$10$点  
 原神哥 拿出 _图片:嘲讽txt_ , 质询Chose_B何人所为  
 Chose_B _获得效果_ __汗流浃背__  
@@ -309,8 +318,7 @@ Dragon 说明了 __处分原因__
 不知是有意还是无意的，原神哥最后并没有给一班的一体机重新上冰点还原  
 Dragon 还是喜欢用一体机的监控来时不时监视教室里的情况  
 Len_zh 和 figure 还是照玩不误  
-Florance 找到了[随意解开冰点还原的软件](https://www.bilibili.com/video/BV1aH4y1S7Ab/?vd_source=88e5e88e44dcf35edbab57107763c335
-)  
+Florance 找到了随意解开和恢复冰点还原的方法
 田所先生的转接头到现在也没有人赔他一个  
 codeboy找到了可以向路中的ftp中放入文件的方法  
 
